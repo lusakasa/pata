@@ -1,0 +1,19 @@
+{
+  "name": "saka-hints",
+  "version": "0.1.0",
+  "description": "a library for getting and rendering link hints",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lusakasa/saka-hints.git"
+  },
+  "author": "eejdoowad <eejdoowad@gmail.com>",
+  "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
+  "bugs": {
+    "url": "https://github.com/lusakasa/saka-hints/issues"
+  },
+  "homepage": "https://github.com/lusakasa/saka-hints#readme"
+}
