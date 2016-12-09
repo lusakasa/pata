@@ -1,4 +1,4 @@
-# Pata
+# saka-hints
 
 Designed to handle gathering link hints for Saka.
 
