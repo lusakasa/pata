@@ -1,7 +1,9 @@
-# saka-hints
+# Saka Hints
 
-Designed to handle gathering link hints for Saka.
+A library for finding and rendering link hints. Powers Saka extensions.
 
-Also rendering, possibly.
+# Credits
 
-Link hints should be transparent and unclickable. Clicks should be passed to element beneat.
+MIT Licensed, Copyright (c) 2017 Sufyan Dawoodjee with sections adapted from
+
+* [Vimium](https://github.com/philc/vimium)
